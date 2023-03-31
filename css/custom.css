@@ -6,6 +6,15 @@ background-color: #212180;
 
 
 }
+.youtube-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.youtube-link:hover {
+  color: #ff0;
+  text-decoration: inherit;
+}
 
 .widecontainer {
   position: relative;
